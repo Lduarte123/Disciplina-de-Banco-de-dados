@@ -1,0 +1,94 @@
+Atividade: Identificação e Planejamento de Tabelas para um Banco de Dados
+Objetivo:
+Nesta atividade, vocês irão imaginar quais tabelas e campos são necessários para atender
+às situações propostas. O foco está em identificar e organizar os dados relevantes.
+Instruções:
+1. Leia cada uma das situações descritas abaixo.
+2. Para cada situação, liste as tabelas necessárias e os campos que cada tabela deve
+conter.
+3. Não é necessário criar relações entre as tabelas nem mencionar como elas se
+conectam.
+Situações:
+1. Cadastro de Alunos de uma Escola
+Uma escola deseja armazenar os dados básicos dos seus alunos, como nome,
+idade, turma e contato dos responsáveis.
+2. Controle de Livros em uma Biblioteca
+Uma biblioteca quer catalogar seus livros, incluindo título, autor, gênero literário e
+ano de publicação.
+3. Sistema de Registro de Consultas Médicas
+Um consultório médico precisa registrar os pacientes atendidos, as consultas
+realizadas e os médicos responsáveis.
+4. Gerenciamento de Pedidos em um Restaurante
+Um restaurante deseja registrar os pedidos feitos pelos clientes, incluindo a lista de
+pratos e bebidas.
+5. Sistema de Matrículas em uma Academia
+Uma academia quer organizar os dados dos alunos matriculados, seus planos de
+assinatura e as atividades físicas realizadas.
+6. Loja de Eletrônicos
+Uma loja quer manter um registro dos produtos em estoque, com informações como
+nome, descrição, quantidade e preço.
+7. Organização de Eventos
+Uma empresa quer criar um sistema para organizar eventos, incluindo os
+participantes, os palestrantes e os locais reservados.
+
+8. Sistema de Hospedagem em um Hotel
+Um hotel precisa registrar os hóspedes, os quartos ocupados e as datas de entrada
+e saída.
+9. Cadastro de Animais em um Pet Shop
+Um pet shop quer registrar os animais atendidos, seus donos e os serviços
+realizados, como banho, tosa ou vacinação.
+10. Gerenciamento de Vendas em uma Loja de Roupas
+Uma loja deseja registrar os clientes, os produtos vendidos e as datas das vendas.
+11. Sistema de Biblioteca Escolar
+Uma escola precisa catalogar seus livros e registrar quais alunos estão com cada
+exemplar.
+12. Controle de Estoque em uma Farmácia
+Uma farmácia quer organizar os medicamentos disponíveis, incluindo nome,
+quantidade e data de validade.
+13. Sistema de Registro de Corridas de Táxi
+Uma empresa de táxi quer registrar os motoristas, os passageiros e as corridas
+realizadas, incluindo origem, destino e valor da corrida.
+14. Organização de Turmas em uma Escola de Música
+Uma escola de música deseja registrar seus alunos, os professores e os
+instrumentos ensinados em cada turma.
+15. Plataforma de Cursos Online
+Um site de cursos online precisa organizar os cursos oferecidos, os alunos inscritos
+e os professores responsáveis por cada curso.
+16. Sistema de Gerenciamento de Viagens
+Uma agência de viagens deseja registrar os pacotes turísticos oferecidos, os clientes
+que compraram os pacotes e as datas de embarque e retorno.
+17. Plataforma de Streaming de Vídeos
+Um serviço de streaming precisa armazenar informações sobre filmes e séries
+disponíveis, usuários cadastrados e o histórico de visualização de cada usuário.
+18. Sistema de Gerenciamento de Hospital
+Um hospital deseja registrar os pacientes internados, os médicos responsáveis por
+cada paciente e os medicamentos prescritos durante o tratamento.
+19. Sistema de Gerenciamento de Projetos
+Uma empresa quer organizar os projetos em andamento, os funcionários alocados
+em cada projeto e as tarefas atribuídas a cada funcionário.
+20. Plataforma de Ensino com Avaliações Online
+Uma plataforma de ensino precisa armazenar os cursos oferecidos, os alunos
+
+inscritos e as avaliações realizadas, incluindo a nota de cada aluno em cada
+avaliação.
+21. Sistema de Gerenciamento de Condomínios
+Um condomínio quer registrar as unidades habitacionais, os moradores de cada
+unidade e as despesas mensais, como água e luz, de cada uma.
+22. Sistema de Controle de Produção Industrial
+Uma fábrica deseja organizar a produção de produtos, registrando os materiais
+utilizados, os funcionários responsáveis por cada etapa e a quantidade de itens
+produzidos.
+23. Sistema de Reserva para Restaurantes
+Um restaurante quer registrar as reservas feitas pelos clientes, incluindo o nome do
+cliente, o número de pessoas e o horário reservado.
+24. Plataforma de Venda de Veículos Usados
+Um site de vendas de veículos usados deseja registrar os vendedores, os veículos
+disponíveis e as negociações realizadas, incluindo a data da venda e o valor
+negociado.
+25. Sistema de Registro de Ocorrências Policiais
+Uma delegacia precisa registrar as ocorrências relatadas, as pessoas envolvidas
+(vítimas e suspeitos) e os policiais responsáveis por cada caso.
+Entrega:
+Para cada situação:
+● Liste as tabelas necessárias.
+● Para cada tabela, descrever os campos que ela deve conter.
