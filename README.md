@@ -17,8 +17,7 @@
 -- Tabela pedidos: Clientes, Pedidos escolhidos 
 5. Sistema de Matrículas em uma Academia
 -- Tabelas Alunos: Nome, idade, cpf, endereço, cep, assinatura, data de pagamento, atividades físicas realizadas
--- Tabela instrutor: Nome, turno, período, alunos
--- Tabela Administrador: Nome, id
+-- Tabela Atividades: ID, Atividade, Horário, ID_aluno
 6. Loja de Eletrônicos
 -- Tabela Produtos: Nome dos produtos, preco, descrição , Quantidades
 -- Tabela Estoque: idproduto, Quantidades
